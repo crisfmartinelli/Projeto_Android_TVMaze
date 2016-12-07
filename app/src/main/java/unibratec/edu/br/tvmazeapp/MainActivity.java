@@ -14,6 +14,7 @@ import unibratec.edu.br.tvmazeapp.fragment.DetailShowFragment;
 import unibratec.edu.br.tvmazeapp.fragment.FavoritesShowFragment;
 import unibratec.edu.br.tvmazeapp.fragment.ShowListFragment;
 import unibratec.edu.br.tvmazeapp.model.Result;
+import unibratec.edu.br.tvmazeapp.model.Show;
 
 
 public class MainActivity extends AppCompatActivity
@@ -50,13 +51,29 @@ public class MainActivity extends AppCompatActivity
 
 
     @Override
-    public void onShowClick(Result result) {
+    public void onResultClick(Result result) {
         if(getResources().getBoolean(R.bool.phone)) {
             Intent it = new Intent(MainActivity.this, DetailShowActivity.class);
             it.putExtra("idShow", String.valueOf(result.show.id));
             startActivity(it);
         }else{
             DetailShowFragment dsf = DetailShowFragment.newInstance(String.valueOf(result.show.id));
+
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.content_show_detail, dsf, "detail")
+                    .commit();
+        }
+    }
+
+    @Override
+    public void onShowClick(Show show) {
+        if(getResources().getBoolean(R.bool.phone)) {
+            Intent it = new Intent(MainActivity.this, DetailShowActivity.class);
+            it.putExtra("idShow", String.valueOf(show.id));
+            startActivity(it);
+        }else{
+            DetailShowFragment dsf = DetailShowFragment.newInstance(String.valueOf(show.id));
 
             getSupportFragmentManager()
                     .beginTransaction()

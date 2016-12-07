@@ -61,7 +61,7 @@ public class ShowListFragment extends Fragment
     public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
         if(getActivity() instanceof OnResultClick){
             Result result = (Result) mListShows.getItemAtPosition(position);
-            ((OnResultClick)getActivity()).onShowClick(result);
+            ((OnResultClick)getActivity()).onResultClick(result);
         }
     }
 

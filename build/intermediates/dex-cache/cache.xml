@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dc5121b1278db4652639cf8c51972230ec7a3e28\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -21,84 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_efbd9da71ded1552a147529e21bf71565327ea00\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_54ba37b086d2e16afb648024255e74f0a6ed05d4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cris_PC\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_e0bbeecb878b17b245c24569b22577cd5b0ef5e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_b9abe5d26309ef4e40120372a7a7c6d8904d8c4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_13d20db9810941573bc83384e82a0f58115eafb3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cris_PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_969649c32ccea1c7515e5a58dc790263fd3d01c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6844871b9ad5e0704410b3f9e90d8b6042eb699c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eab7a707fdd7546451ef95c8408f933281e82def\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_cc15fc4a39d159f0ed3ed58655cf435361d33923\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,24 +39,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2bd5df550a6e164dadd95cba95c0bbc0d7eec699\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2da7de5e334071d546626e7ecc5ca9725209a414">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38575c2fc418ff84c8dfdb8a3de89768c3489cba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -147,129 +48,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f25b57bfc26d28271871096d08f9d2d133105ac">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_02384ddc555b0daf4e0ee71c01bc41b4c49f8e94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_cde4043c911d04163b28e7775ef9e6b0f13090c2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_326f3f2dde2e722a3f9912c5541a3ba4278918ca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="71ba245adb9c0a9d8cc68b44f19644da73a49a78">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9102d7a344a688e823d277741d96ed62b4fed62a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0a374ec6a210048114df0d68c1657db9d4d95c60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_9e17fc6902a9d77d34cfd7e994e44a079eae963e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_aa02a709616b1805975e76c4ba49dddfe980aebf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_36c1e6e57d8e5842402e197909b8b4edec26b842\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f3509ec52a68208633dff27bc43ecc04ae9d938a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_2300614d3df24a860e9d9b33128fcae7e37debd7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
         <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2c9eb28fe91e67a02a778b056de79a576e366a52\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72e4d63d99e87d8c8591ecc2642943968da1d730\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_71fa597e7bf0a8ca519cf3af56d715c6c9242d1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_025c93aad321021c380b67fb21f4d89149e32be5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -291,38 +75,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2ae23335a2063209db90e7ce1a8861f99d616516\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_83e8a158104ba5b583be5f174494ee06653dea54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp - Backup SQLite inicio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_44aed26234d0bf97f8b1cdd007369546977e1da0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ca7ab0c251a68beb00b74434305ef1981d0e32ff">
+        sha1="b3a671e29243f61ab5c23fa8c9fbaaea56864ccd">
         <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0fd4404eabb446a3bb2d22c658c4aeb6c1711633\classes.dex" />
     </item>
     <item
@@ -345,39 +102,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2b2baf08c911737fc7ce16601460204379b9068d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_417f60f89be2d02de9b1d19e419816adaab542fd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_9ce1121eff2e7ba390d42d344a32e85231b194d6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb2b0c95fe40bc294104e2d54164c60ed1d09f63\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -396,6 +126,105 @@
         revision="24.0.2"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
         <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_45481b1e112ae31340cc5a9debff380a8b6109a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_efbd9da71ded1552a147529e21bf71565327ea00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cris_PC\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_e0bbeecb878b17b245c24569b22577cd5b0ef5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cris_PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_969649c32ccea1c7515e5a58dc790263fd3d01c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="52a36f86662b76330cdc85b4dfe3655b44b2da82">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_38575c2fc418ff84c8dfdb8a3de89768c3489cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_2300614d3df24a860e9d9b33128fcae7e37debd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_025c93aad321021c380b67fb21f4d89149e32be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2ae23335a2063209db90e7ce1a8861f99d616516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_83e8a158104ba5b583be5f174494ee06653dea54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_2b2baf08c911737fc7ce16601460204379b9068d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_9ce1121eff2e7ba390d42d344a32e85231b194d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudio\Projeto\TvMazeApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_eb2b0c95fe40bc294104e2d54164c60ed1d09f63\classes.dex" />
     </item>
 
 </items>

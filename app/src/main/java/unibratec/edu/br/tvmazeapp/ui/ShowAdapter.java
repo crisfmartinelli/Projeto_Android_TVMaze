@@ -56,7 +56,7 @@ public class ShowAdapter extends ArrayAdapter{
                     .with(getContext())
                     .load(result.show.images.medium)
                     .into(vh.imageView);
-        }else{
+        }else {
             vh.imageView.setImageResource(R.drawable.nophoto);
         }
         return convertView;
